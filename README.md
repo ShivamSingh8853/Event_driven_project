@@ -10,10 +10,6 @@ A Go project implementing event-driven architecture.
 - [Features](#features)  
 - [Project Structure](#project-structure)  
 - [Getting Started](#getting-started)  
-- [Usage](#usage)  
-- [Dependencies](#dependencies)  
-- [Contributing](#contributing)  
-- [License](#license)
 
 ---
 
